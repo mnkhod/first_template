@@ -1,0 +1,4 @@
+[placeholders.title]
+type = "string"
+prompt = "What is the title?"
+default = "new project"
